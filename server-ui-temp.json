@@ -64,6 +64,118 @@
                 }
               },
               {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
+                "Props": {
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_Image_v1.DU_View_Image_v1_C",
+                    "Props": {
+                      "Image": "/Ark-Nucleus/Assets/Materials/M_NewLogo.M_NewLogo",
+                      "Width": 120,
+                      "Height": 120,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  },
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
+                    "Props": {
+                      "Fill": 1,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    },
+                    "UIItems": [
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                          "Text": "Q: What is this About?",
+                          "FontSize": 14,
+                          "Justification": "Center",
+                          "Padding": [
+                            0,
+                            0,
+                            0,
+                            5
+                          ]
+                        }
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                          "Text": "A: Just a demo server info page provided by the Ark-Nucleus mod.",
+                          "FontSize": 11,
+                          "Justification": "Center",
+                          "Fill": 1,
+                          "Padding": [
+                            0,
+                            0,
+                            0,
+                            5
+                          ]
+                        }
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                        "Props": {
+                          "Label": "Learn More",
+                          "Padding": [
+                            5,
+                            5,
+                            5,
+                            5
+                          ]
+                        },
+                        "Modal": {
+                          "Props": {
+                            "Title": "What is this About?"
+                          },
+                          "UIItems": [
+                            {
+                              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                              "Props": {
+                                "Text": "This is a small example of what pages you can build using the Ark-Nucleus JSON editor.",
+                                "FontSize": 15,
+                                "Fill": 1,
+                                "Padding": [
+                                  5,
+                                  5,
+                                  5,
+                                  5
+                                ]
+                              }
+                            },
+                            {
+                              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                              "Props": {
+                                "Label": "$$Ark-Nucleus$:$OK_BTN"
+                              },
+                              "OnClickEvent": {
+                                "EventUID": "CloseModal"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                 "Props": {
                   "Label": "Join Our Discord",
