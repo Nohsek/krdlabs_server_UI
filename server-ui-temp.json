@@ -50,6 +50,20 @@
                 }
               },
               {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Survive the ARK. Ascend the legend!",
+                  "FontSize": 14,
+                  "Justification": "Center",
+                  "Padding": [
+                    4,
+                    4,
+                    4,
+                    4
+                  ]
+                }
+              },
+              {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                 "Props": {
                   "Label": "Join Our Discord",
