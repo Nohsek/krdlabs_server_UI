@@ -202,7 +202,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Q: What is this About?",
+                              "Text": "Join Our Discord",
                               "FontSize": 14,
                               "Justification": "Center",
                               "Padding": [
@@ -214,24 +214,10 @@
                             }
                           },
                           {
-                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                            "Props": {
-                              "Text": "A: Just a demo server info page provided my the Ark-Nucleus mod.",
-                              "FontSize": 11,
-                              "Justification": "Center",
-                              "Fill": 1,
-                              "Padding": [
-                                0,
-                                0,
-                                0,
-                                5
-                              ]
-                            }
-                          },
-                          {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                             "Props": {
-                              "Label": "Learn More",
+                              "Label": "KRDLabs Discord",
+                              "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo",
                               "Padding": [
                                 5,
                                 5,
@@ -239,31 +225,60 @@
                                 5
                               ]
                             },
-                            "Modal": {
+                            "OnClickEvent": {
+                              "Url": "https://discord.gg/nyEgetjRA8"
+                            },
+                            {
+                              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                               "Props": {
-                                "Title": "What is this About?"
+                                "Text": "Joining our Discord server is a requirement for playing on KRDLabs cluster.",
+                                "FontSize": 11,
+                                "Justification": "Center",
+                                "Fill": 1,
+                                "Padding": [
+                                  0,
+                                  0,
+                                  0,
+                                  5
+                                ]
+                              }
+                            },
+                            {
+                              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                              "Props": {
+                                "Label": "KRDLabs Discord Server",
+                                "Padding": [
+                                  5,
+                                  5,
+                                  5,
+                                  5
+                                ]
                               },
-                              "UIItems": [
-                                {
-                                  "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                  "Props": {
-                                    "Text": "This is just a small representation of what kind of pages can be setup using the Ark-Nucleus JSON Editor.",
-                                    "FontSize": 15,
-                                    "Fill": 1
-                                  }
+                              "Modal": {
+                                "Props": {
+                                  "Title": "What is this About?"
                                 },
-                                {
-                                  "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                  "Props": {
-                                    "Label": "$$Ark-Nucleus$:$OK_BTN"
+                                "UIItems": [
+                                  {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                    "Props": {
+                                      "Text": "This is just a small representation of what kind of pages can be setup using the Ark-Nucleus JSON Editor.",
+                                      "FontSize": 15,
+                                      "Fill": 1
+                                    }
                                   },
-                                  "OnClickEvent": {
-                                    "EventUID": "CloseModal"
+                                  {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                    "Props": {
+                                      "Label": "$$Ark-Nucleus$:$OK_BTN"
+                                    },
+                                    "OnClickEvent": {
+                                      "EventUID": "CloseModal"
+                                    }
                                   }
-                                }
-                              ]
+                                ]
+                              }
                             }
-                          }
                         ]
                       }
                     ]
