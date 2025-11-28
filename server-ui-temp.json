@@ -1,1 +1,116 @@
-hello
+{
+  "RequestUID": "Ark-Nucleus/WebUI",
+  "UUID": "ServerUI/BasicTemplate",
+  "Data": {
+    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+    "Props": {
+      "UUID": "MainTab",
+      "Fill": 1
+    },
+    "UICache": {
+      "SaveFile": "server-ui-basic"
+    },
+    "Tabs": [
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+        "Props": {
+          "Title": "Home",
+          "Fill": 1,
+          "Padding": [
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
+            "Props": {
+              "Padding": [
+                20,
+                20,
+                20,
+                20
+              ]
+            },
+            "UIItems": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Welcome to your Server UI",
+                  "FontSize": 24,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                "Props": {
+                  "Label": "Visit Discord",
+                  "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo",
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                },
+                "OnClickEvent": {
+                  "Url": "https://discord.gg/"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "FAQ",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+            "Props": {
+              "Fill": 1
+            },
+            "UIItems": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Q: How do I edit this page?",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "A: Edit the JSON file and reload the Ark-Nucleus mod.",
+                  "FontSize": 12,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
