@@ -942,6 +942,17 @@
           "Title": "$$SERVER$:$Maps",
           "Note": "Some Page Notes",
           "Fill": 1
+        }
+      },
+     {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+        "Props": {
+          "Padding": [
+            0,
+            0,
+            0,
+            10
+          ]
         },
         "UIItems": [
           {
@@ -958,23 +969,6 @@
             }
           }
         ]
-      },
-      {
-        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-        "Props": {
-          "Padding": [
-            0,
-            0,
-            0,
-            10
-          ],
-          "Color": [
-            1,
-            1,
-            1,
-            0.5
-          ]
-        }
       },
 
 
