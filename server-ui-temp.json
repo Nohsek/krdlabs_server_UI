@@ -819,7 +819,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "1. Respect thy Neighbor: Treat your fellow Survivors with courtesy and respect. No harassment, hate speech, or toxic behavior will be tolerated.",
+                  "Text": "1. Please pick up ALL taming traps after use. Doing so helps eliminate lag and keep our cluster clean for all to enjoy.",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -832,7 +832,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "2. Base Raiding: While PvP is encouraged, senseless destruction is not. Raiding is allowed, but don't wipe out entire bases. Leave something for your opponents to rebuild with.",
+                  "Text": "2. Please collect all eggs, both high and low levels. Do not throw them. By doing so you ruin the spawns and cause lag for our cluster. Eat your unwanted eggs.",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -845,7 +845,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "3. Cheating and Exploits: Any form of cheating, exploiting, or hacking will result in swift and severe consequences. We're here for fair play and a fun experience for everyone.",
+                  "Text": "3. Names labeled Human, Humanoid, etc are not permitted on the cluster. You will be asked to choose a new name or we will pick for you.",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -858,7 +858,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "4. Building Limits: Keep your structures reasonable in size to maintain server performance. Excessive building or pillar spamming is not allowed.",
+                  "Text": "4. Your base must be within render of its own outer walls at all times. This includes the base and all surrounding walls, gates, fencings or other structures included in your base. If we find your base does not follow these rules, you will be asked to downsize.",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -871,7 +871,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "5. Wildlife Conservation: Avoid unnecessary killing of passive tames and wildlife. Let's strive for ecological balance on the Ark.",
+                  "Text": "5. Bases cannot block player spawn points. You will be asked to move. Failure to heed this rule may result in removal of your base by admin. Absolutely no building in the immediate vicinity of terminals, obelisks, or mission dispatchers. Items here will be removed on sight. Emergency outposts are permitted as long as they are for temporary use only!",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -884,7 +884,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "6. Roleplay Encouraged: Engage in immersive roleplay if that's your style! Whether you're a lone survivor, a tribal leader, or a dino tamer, bring your character to life.",
+                  "Text": "6. Absolutely no structure spamming. (Example: pillaring or foundation spam) you will be given 24hrs to remove it. Only one cloning chamber and Tek rep allowed per tribe. All replicators, cloning chambers, and crafting tables should be turned off when not in use to limit the strain on the cluster.",
                   "FontSize": 14,
                   "Padding": [
                     5,
@@ -897,7 +897,33 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "7. Community Events: Join in on server-wide events for a chance to earn rewards, make new friends, and test your skills against the challenges we throw your way.",
+                  "Text": "7. Do not leave tames wandering or mating while unattended. You will only receive one warning, then they will be killed. This includes leaving unwanted tames to wander on aggressive. Please dispose of your unwanted tames by killing them off.",
+                  "FontSize": 14,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "8. No racist, or homophobic slurs allowed in gamertags, ark names, or chat.",
+                  "FontSize": 14,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "9. Survivors caught using exploits, hacks, dupes, or any unfair advantage will face consequences up to permanent exile from the ARK.",
                   "FontSize": 14,
                   "Padding": [
                     5,
