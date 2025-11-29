@@ -135,21 +135,21 @@
       "de": "1. Regel 1\n\n2. Regel 2\n\n3. Regel 3\n\n4. Regel 4\n\n5. Regel 5\n\n6. Regel 6\n\n7. Regel 7\n\n8. Regel 8\n\n9. Regel 9\n\n10. Regel 10"
     },
     "Maps": {
-     "en": "Maps",
-     "de": "",
-     "es": "",
-     "it": "",
-     "da": "",
-     "nl": "",
-     "fr": "",
-     "tr": "",
-     "ko": "",
-     "zh": "",
-     "zh-TW": "",
-     "ja": "",
-     "pt-BR": "",
-     "ru": ""
-  },
+      "en": "Maps",
+      "de": "Karten",
+      "es": "Mapas",
+      "it": "Mappe",
+      "da": "Kort",
+      "nl": "Kaarten",
+      "fr": "Cartes",
+      "tr": "Haritalar",
+      "ko": "지도",
+      "zh": "地图",
+      "zh-TW": "地圖",
+      "ja": "地図",
+      "pt-BR": "Mapas",
+      "ru": "Карты"
+    },
   "PLAYERLIST": {
     "en": "Player List",
     "de": "Spieler Liste"
