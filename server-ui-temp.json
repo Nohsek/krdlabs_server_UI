@@ -1090,7 +1090,7 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "$$SERVER$:$Server_Settings",
+          "Title": "$$SERVER$:$Server Settings",
           "Fill": 1
         },
         "UIItems": [
@@ -1133,6 +1133,102 @@
               "UUID": "SecondTab"
             },
             "Tabs": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "A Tab Page",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "A Tab Page",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "A Tab Page",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "A Tab Page",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
