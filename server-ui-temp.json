@@ -1388,7 +1388,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
-                  "Title": "A Tab Page",
+                  "Title": "Creature Stats/Lvl",
                   "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
@@ -1422,7 +1422,7 @@
                       {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                         "Props": {
-                          "Title": "A Tab Page 2",
+                          "Title": "Wild",
                           "Note": "Some Tab Page Notes",
                           "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                           "Fill": 1
@@ -1446,7 +1446,55 @@
                       {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                         "Props": {
-                          "Title": "A Tab Page 3",
+                          "Title": "Tamed",
+                          "Note": "Some Tab Page Notes",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Taming Reward",
+                          "Note": "Some Tab Page Notes",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Max Effectiveness Reward",
                           "Note": "Some Tab Page Notes",
                           "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                           "Fill": 1
