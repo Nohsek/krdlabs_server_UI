@@ -1145,7 +1145,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Mature Speed = 15x\nIncubation Speed = 10x\nEgg Lay Period = 0.5x\nBaby Food Consumption = 0.5x\nMating Speed = 8x\nMating Interval = 0.013x\nImprint Period = 0.125x\nImprint Period = 1hr\nImprint Stat Scale = 2x\nImprint Grace Period = 2x\nImprint Loss Speed = 0.5x\nImprint Amount = 5x\nAnyone Imprint = No\nImprint Disabled = No\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
