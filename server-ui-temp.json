@@ -1148,7 +1148,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
-                  "Title": "1",
+                  "Title": "Mating/Hatching",
                   "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
@@ -1157,7 +1157,223 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Mature Speed = 15x\nIncubation Speed = 10x\nEgg Lay Period = 0.5x\nBaby Food Consumption = 0.5x\nMating Speed = 8x\nMating Interval = 0.013x\nImprint Period = 0.125x\nImprint Period = 1hr\nImprint Stat Scale = 2x\nImprint Grace Period = 2x\nImprint Loss Speed = 0.5x\nImprint Amount = 5x\nAnyone Imprint = No\nImprint Disabled = No",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Taming",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Passive Interval = 0.5x\nTaming Speed = 7x",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Day Cycle",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Day = 1hr 10s\nNight = 25min 6s",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "XP",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Alpha Kill = 5x\nBoss Kill = 6x\nCave Kill = 3x\nExplorer Note = 2x\nTamed Kill = 2.5x\nUnclaimed Kill = 1x\nWild Kill = 2x\nXP Multiplier = 2x\nCrafting = 2.5x\nHarvest = 3x\nKill = 2x\nPassive = 2x\nSpecial = 3x",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Decay",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Structure Decay = 3x\nCreature Decay = 2x\nCrop Decay Speed = 0.5x\nFast Decay Unsnapped = Yes\nFast Decay Time = 12h\nAuto Destroy = Yes\nAuto Destroy Time = 3.5x\nAuto Destroy Creatures = No",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Spoil",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Spoil Time = 5x\nCorpse Decomposition Time = 30min\nItem Decomposition Time = 5min\nClamp Spoil Time = Yes",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Harvest",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Global Harvest Rate = 6x\nGlobal Harvest Health = 2x\nPlayer Harvest Damage = 2x\nCreature Harvest Damage = 3.2x",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Difficulty",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Wild Max = 300\nWild Tek Max = 360\nPerfect Tame = 449\nPerfect Tek Tame = 539\nWild Wyvern Max = 380\nWild Crystal Wyvern Max = 450\nLoot Scale = 1000%",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Player Stats Per Lvl",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Health = 100\nStamina = 25\nTorpor = 0\nOxygen = 50\nFood = 50\nWater = 50\nWeight = 1000\nMelee = 10%\nSpeed = 5.25%\nFortitude = 50\nCrafting = 25%",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "General Settings",
+                  "Note": "Some Tab Page Notes",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Cave Building PVP/PVE = Yes\nStructure Collision = Yes\nNon Native Tames on Aberration = Yes\nFlyers on Aberration = No\nCustom Recipes = Yes\nDiseases = No\nFlyer Speed Leveling = Yes\nFlyer Carry PVE = Yes\nCave Flying = Yes\nStamina flyer Recovery = Yes\nBattery Consumption = 1x\nFuel Consumption Interval = 3x\nIdle Player Kick = 1hr\nLoot Quality = 10x\nNew Years Enabled = Yes\nMultiFloor Platform = Yes\nOffline Raid Protection = 5min\nStructure Pickup = Yes\nTribe Wars = Yes\nAuto Save = 5min\nCrop Growth Speed = 2x\nStructure Locking = Auto\nFriendly Fire = Yes\nRespecs = unlimited\nTitanosaur Feeding = Yes\nCrafting Skill = 5x",
                       "FontSize": 15,
                       "Padding": [
                         5,
