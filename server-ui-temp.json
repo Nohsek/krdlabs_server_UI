@@ -991,6 +991,97 @@
                     5
                   ]
                 }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "2. Scorched Earth",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "3. The Center",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "4. Aberration",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "5. Extinction",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "6. Astraeos",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "7. Ragnarok",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "8. Valguero - Coming Soon",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
               }
             ]
           }
