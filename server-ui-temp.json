@@ -764,7 +764,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "THIS IS A DEMO PAGE!!!",
+              "Text": "KRDLabs PVE Cluster Rules!!!",
               "FontSize": 24,
               "Justification": "Center",
               "Color": [
