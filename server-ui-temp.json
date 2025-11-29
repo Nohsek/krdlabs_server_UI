@@ -1340,7 +1340,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
-                  "Title": "Player Stats Per Lvl",
+                  "Title": "Player Stats/Lvl",
                   "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
