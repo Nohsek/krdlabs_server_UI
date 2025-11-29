@@ -1114,10 +1114,6 @@
             }
           },
           {
-            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
-            "Props": {
-              "UUID": "SecondTab"
-            },
             "Tabs": [
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
