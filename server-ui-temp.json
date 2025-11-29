@@ -1113,27 +1113,6 @@
               ]
             }
           },
-
-
-
-
-
-
-
-          {
-            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-            "Props": {
-              "Text": "You can have unlimited number of pages by adding the Tabbed Panel",
-              "FontSize": 20,
-              "Padding": [
-                5,
-                5,
-                5,
-                5
-              ],
-              "Justification": "Center"
-            }
-          },
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
             "Props": {
@@ -1162,22 +1141,36 @@
                       ]
                     }
                   },
+
+
+
+
+
+
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "You can have unlimited number of pages by adding the Tabbed Panel",
+                      "FontSize": 20,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ],
+                      "Justification": "Center"
+                    }
+                  },
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
                     "Props": {
-                      "UUID": "ThirdTab",
-                      "Padding": [
-                        10,
-                        10,
-                        10,
-                        10
-                      ]
+                      "UUID": "SecondTab"
                     },
                     "Tabs": [
                       {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                         "Props": {
-                          "Title": "A Tab Page 2",
+                          "Title": "A Tab Page",
                           "Note": "Some Tab Page Notes",
                           "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                           "Fill": 1
@@ -1186,7 +1179,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "Any content can be placed inside (even nested tabs)!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1195,30 +1188,68 @@
                                 5
                               ]
                             }
-                          }
-                        ]
-                      },
-                      {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                        "Props": {
-                          "Title": "A Tab Page 3",
-                          "Note": "Some Tab Page Notes",
-                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                          "Fill": 1
-                        },
-                        "UIItems": [
+                          },
                           {
-                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
-                              "FontSize": 15,
+                              "UUID": "ThirdTab",
                               "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
+                                10,
+                                10,
+                                10,
+                                10
                               ]
-                            }
+                            },
+                            "Tabs": [
+                              {
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                                "Props": {
+                                  "Title": "A Tab Page 2",
+                                  "Note": "Some Tab Page Notes",
+                                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                                  "Fill": 1
+                                },
+                                "UIItems": [
+                                  {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                    "Props": {
+                                      "Text": "Any content can be placed inside!",
+                                      "FontSize": 15,
+                                      "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                      ]
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                                "Props": {
+                                  "Title": "A Tab Page 3",
+                                  "Note": "Some Tab Page Notes",
+                                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                                  "Fill": 1
+                                },
+                                "UIItems": [
+                                  {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                    "Props": {
+                                      "Text": "Any content can be placed inside!",
+                                      "FontSize": 15,
+                                      "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                      ]
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
@@ -1233,7 +1264,6 @@
     ]
   }
 }
-
 
 
 
