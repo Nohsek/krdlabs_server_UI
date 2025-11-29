@@ -133,110 +133,127 @@
     "RULES_CONTENT": {
       "en": "1. Rule 1\n\n2. Rule 2\n\n3. Rule 3\n\n4. Rule 4\n\n5. Rule 5\n\n6. Rule 6\n\n7. Rule 7\n\n8. Rule 8\n\n9. Rule 9\n\n10. Rule 10",
       "de": "1. Regel 1\n\n2. Regel 2\n\n3. Regel 3\n\n4. Regel 4\n\n5. Regel 5\n\n6. Regel 6\n\n7. Regel 7\n\n8. Regel 8\n\n9. Regel 9\n\n10. Regel 10"
-    },
-    "PLAYERLIST": {
-      "en": "Player List",
-      "de": "Spieler Liste"
-    },
-    "HOME_BACKGROUND": {
-      "en": "https://toquoc.mediacdn.vn/280518851207290880/2023/10/28/1280x720-1698384673235-16983846734011992338498-1698468805793-16984688059531353502588.jpg",
-      "de": "https://toquoc.mediacdn.vn/280518851207290880/2023/10/28/1280x720-1698384673235-16983846734011992338498-1698468805793-16984688059531353502588.jpg"
-    },
-    "DISCORD": {
-      "en": "https://discord.gg/Xm7e4CkmQT",
-      "de": "https://discord.gg/Xm7e4CkmQT"
-    },
-    "HOME_WIDGET1_HEADLINE": {
-      "en": "Server Settings:",
-      "de": "Server Einstellungen:"
-    },
-    "HOME_WIDGET1_TEXT": {
-      "en": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)",
-      "de": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)"
-    },
-    "HOME_WIDGET2_HEADLINE": {
-      "en": "Server Features:",
-      "de": "Server Features:"
-    },
-    "HOME_WIDGET2_TEXT": {
-      "en": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop",
-      "de": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop"
-    },
-    "HOME_WIDGET3_HEADLINE": {
-      "en": "Server Hardware:",
-      "de": "Server Hardware:"
-    },
-    "HOME_WIDGET3_TEXT": {
-      "en": "Our Cluster is hosted on an Root Server",
-      "de": "Unser Cluster läuft über einen Root Server"
-    },
-    "FAQ_HEADLINE1": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT1": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE2": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT2": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE3": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT3": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE4": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT4": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE5": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT5": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE6": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT6": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE7": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT7": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_HEADLINE8": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_TEXT8": {
-      "en": " ",
-      "de": " "
-    },
-    "FAQ_LASTSENTENCE": {
-      "en": " ",
-      "de": " "
     }
+  },
+  "Maps": {
+    "en": "Maps",
+    "de": "",
+    "es": "",
+    "it": "",
+    "da": "",
+    "nl": "",
+    "fr": "",
+    "tr": "",
+    "ko": "",
+    "zh": "",
+    "zh-TW": "",
+    "ja": "",
+    "pt-BR": "",
+    "ru": ""
+  },
+  "PLAYERLIST": {
+    "en": "Player List",
+    "de": "Spieler Liste"
+  },
+  "HOME_BACKGROUND": {
+    "en": "https://toquoc.mediacdn.vn/280518851207290880/2023/10/28/1280x720-1698384673235-16983846734011992338498-1698468805793-16984688059531353502588.jpg",
+    "de": "https://toquoc.mediacdn.vn/280518851207290880/2023/10/28/1280x720-1698384673235-16983846734011992338498-1698468805793-16984688059531353502588.jpg"
+  },
+  "DISCORD": {
+    "en": "https://discord.gg/Xm7e4CkmQT",
+    "de": "https://discord.gg/Xm7e4CkmQT"
+  },
+  "HOME_WIDGET1_HEADLINE": {
+    "en": "Server Settings:",
+    "de": "Server Einstellungen:"
+  },
+  "HOME_WIDGET1_TEXT": {
+    "en": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)",
+    "de": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)"
+  },
+  "HOME_WIDGET2_HEADLINE": {
+    "en": "Server Features:",
+    "de": "Server Features:"
+  },
+  "HOME_WIDGET2_TEXT": {
+    "en": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop",
+    "de": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop"
+  },
+  "HOME_WIDGET3_HEADLINE": {
+    "en": "Server Hardware:",
+    "de": "Server Hardware:"
+  },
+  "HOME_WIDGET3_TEXT": {
+    "en": "Our Cluster is hosted on an Root Server",
+    "de": "Unser Cluster läuft über einen Root Server"
+  },
+  "FAQ_HEADLINE1": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT1": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE2": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT2": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE3": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT3": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE4": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT4": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE5": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT5": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE6": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT6": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE7": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT7": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_HEADLINE8": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_TEXT8": {
+    "en": " ",
+    "de": " "
+  },
+  "FAQ_LASTSENTENCE": {
+    "en": " ",
+    "de": " "
   }
+}
 }
