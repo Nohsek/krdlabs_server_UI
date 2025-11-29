@@ -286,7 +286,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "A: Yes, Go to Installed Mods -> Ark Nucleus ->Server Settings",
+                              "Text": "",
                               "FontSize": 11,
                               "Justification": "Center",
                               "Fill": 1,
