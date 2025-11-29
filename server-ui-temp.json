@@ -272,7 +272,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Q: Can I disable this for my server?",
+                              "Text": "Having Issues?",
                               "FontSize": 14,
                               "Justification": "Center",
                               "Padding": [
@@ -301,7 +301,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                             "Props": {
-                              "Label": "Learn More",
+                              "Label": "Click Here To Learn More",
                               "Padding": [
                                 5,
                                 5,
@@ -311,13 +311,13 @@
                             },
                             "Modal": {
                               "Props": {
-                                "Title": "Disable Server Info Page"
+                                "Title": "KRDLabs PVE Cluster Support"
                               },
                               "UIItems": [
                                 {
                                   "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                   "Props": {
-                                    "Text": "As majority of things is optional in Ark-Nucleus so is the Server Info Page. You don't see use for it? Disable it!",
+                                    "Text": "If you are having any issues, please click the discord link in the previous section. There, you can submit server suggestions or put in a helpdesk ticket for support.",
                                     "FontSize": 15,
                                     "Fill": 1
                                   }
