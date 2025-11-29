@@ -456,6 +456,11 @@
         ]
       },
       {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "$$SERVER$:$FAQ",
+          "Fill": 1
+        },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
