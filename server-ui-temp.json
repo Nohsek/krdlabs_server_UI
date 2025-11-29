@@ -214,6 +214,21 @@
                             }
                           },
                           {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Joining our Discord server is a requirement for playing on KRDLabs cluster.",
+                              "FontSize": 11,
+                              "Justification": "Center",
+                              "Fill": 1,
+                              "Padding": [
+                                0,
+                                0,
+                                0,
+                                5
+                              ]
+                            }
+                          },
+                          {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                             "Props": {
                               "Label": "KRDLabs Discord Server",
@@ -227,21 +242,6 @@
                             },
                             "OnClickEvent": {
                               "Url": "https://discord.gg/nyEgetjRA8"
-                            }
-                          },
-                          {
-                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                            "Props": {
-                              "Text": "Joining our Discord server is a requirement for playing on KRDLabs cluster.",
-                              "FontSize": 11,
-                              "Justification": "Center",
-                              "Fill": 1,
-                              "Padding": [
-                                0,
-                                0,
-                                0,
-                                5
-                              ]
                             }
                           }
                         ]
