@@ -783,7 +783,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "The listed Ruels and Guids are just an example until replaced by an admin with their own.",
+              "Text": "Survivors who break server rules risk consequences. Small infractions may get a warning, but repeated or serious offenses can lead to being banished from the ARK—temporarily or permanently.",
               "FontSize": 22,
               "Justification": "Center",
               "Color": [
