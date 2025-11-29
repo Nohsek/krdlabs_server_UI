@@ -1385,30 +1385,42 @@
                         5
                       ]
                     },
-                    "Tabs": [
-                      {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                        "Props": {
-                          "Title": "A Tab Page 1",
-                          "Note": "Some Tab Page Notes",
-                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                          "Fill": 1
-                        },
-                        "UIItems": [
-                          {
-                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
-                            "Props": {
-                              "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
-                              ]
-                            }
-                          }
+                    {
+                      "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+                      "Props": {
+                        "UUID": "ThirdTab",
+                        "Padding": [
+                          10,
+                          10,
+                          10,
+                          10
                         ]
-                      }
-                    ]
+                      },
+                      "Tabs": [
+                        {
+                          "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                          "Props": {
+                            "Title": "A Tab Page 1",
+                            "Note": "Some Tab Page Notes",
+                            "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                            "Fill": 1
+                          },
+                          "UIItems": [
+                            {
+                              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
+                              "Props": {
+                                "Padding": [
+                                  0,
+                                  0,
+                                  0,
+                                  10
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
                   }
                 ]
               }
