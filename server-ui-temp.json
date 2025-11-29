@@ -466,7 +466,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "THIS IS A DEMO PAGE!!!",
+              "Text": "KRDLabs PVE CLuster FAQs!!!",
               "FontSize": 24,
               "Justification": "Center",
               "Color": [
@@ -485,8 +485,8 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "The Question and Answers are just an example until replaced by an admin with their own.",
-              "FontSize": 22,
+              "Text": "Here are some frequently asked questions. If you dont see your answer here, please reach out to us via Discord.",
+              "FontSize": 20,
               "Justification": "Center",
               "Color": [
                 1,
