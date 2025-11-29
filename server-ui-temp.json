@@ -284,21 +284,6 @@
                             }
                           },
                           {
-                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                            "Props": {
-                              "Text": "",
-                              "FontSize": 11,
-                              "Justification": "Center",
-                              "Fill": 1,
-                              "Padding": [
-                                0,
-                                0,
-                                0,
-                                5
-                              ]
-                            }
-                          },
-                          {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                             "Props": {
                               "Label": "Click Here To Learn More",
