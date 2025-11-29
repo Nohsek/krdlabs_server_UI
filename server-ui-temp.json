@@ -383,7 +383,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Q: Who can edit this page?",
+                              "Text": "Coming Soon!",
                               "FontSize": 14,
                               "Justification": "Center",
                               "Padding": [
@@ -397,7 +397,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "A: Only Admins can edit this page.",
+                              "Text": "Coming Soon!",
                               "Justification": "Center",
                               "FontSize": 11,
                               "Fill": 1,
@@ -412,7 +412,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                             "Props": {
-                              "Label": "Learn More",
+                              "Label": "Coming Soon!",
                               "Padding": [
                                 5,
                                 5,
@@ -422,13 +422,13 @@
                             },
                             "Modal": {
                               "Props": {
-                                "Title": "Who and where to edit?"
+                                "Title": "Coming Soon!"
                               },
                               "UIItems": [
                                 {
                                   "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                   "Props": {
-                                    "Text": "If you are in the admin mode, you will see an EDIT button in the upper right corner.",
+                                    "Text": "Coming Soon!",
                                     "FontSize": 15,
                                     "Fill": 1
                                   }
