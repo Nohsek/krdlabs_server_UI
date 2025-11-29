@@ -942,35 +942,34 @@
           "Title": "$$SERVER$:$Maps",
           "Note": "Some Page Notes",
           "Fill": 1
+        },
+        {
+          "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+          "Props": {
+            "Padding": [
+              0,
+              0,
+              0,
+              10
+            ]
+          },
+          "UIItems": [
+            {
+              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+              "Props": {
+                "Text": "This is a Border widget, use this if you whish to have some elements stand more out by adding a border around it.",
+                "FontSize": 15,
+                "Padding": [
+                  5,
+                  5,
+                  5,
+                  5
+                ]
+              }
+            }
+          ]
         }
       },
-     {
-        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-        "Props": {
-          "Padding": [
-            0,
-            0,
-            0,
-            10
-          ]
-        },
-        "UIItems": [
-          {
-            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-            "Props": {
-              "Text": "This is a Border widget, use this if you whish to have some elements stand more out by adding a border around it.",
-              "FontSize": 15,
-              "Padding": [
-                5,
-                5,
-                5,
-                5
-              ]
-            }
-          }
-        ]
-      },
-
 
 
 
