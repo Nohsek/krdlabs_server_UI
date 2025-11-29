@@ -757,7 +757,6 @@
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
           "Title": "$$SERVER$:$RULES_AND_GUIDES",
-          "Note": "$$SERVER$:$RULES_AND_GUIDES_NOTE",
           "Fill": 1
         },
         "UIItems": [
