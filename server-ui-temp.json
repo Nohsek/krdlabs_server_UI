@@ -1353,7 +1353,7 @@
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
                       "Text": "Cave Building PVP/PVE = Yes\nStructure Collision = Yes\nNon Native Tames on Aberration = Yes\nFlyers on Aberration = No\nCustom Recipes = Yes\nDiseases = No\nFlyer Speed Leveling = Yes\nFlyer Carry PVE = Yes\nCave Flying = Yes\nStamina flyer Recovery = Yes\nBattery Consumption = 1x\nFuel Consumption Interval = 3x\nIdle Player Kick = 1hr\nLoot Quality = 10x\nNew Years Enabled = Yes\nMultiFloor Platform = Yes\nOffline Raid Protection = 5min\nStructure Pickup = Yes\nTribe Wars = Yes\nAuto Save = 5min\nCrop Growth Speed = 2x\nStructure Locking = Auto\nFriendly Fire = Yes\nRespecs = unlimited\nTitanosaur Feeding = Yes\nCrafting Skill = 5x",
-                      "FontSize": 12,
+                      "FontSize": 10,
                       "Padding": [
                         5,
                         5,
