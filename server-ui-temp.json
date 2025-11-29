@@ -937,42 +937,94 @@
         ]
       },
       {
-        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
           "Title": "$$SERVER$:$Maps",
-          "Note": "Some Page Notes",
           "Fill": 1
         },
-        {
-          "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-          "Props": {
-            "Padding": [
-              0,
-              0,
-              0,
-              10
-            ]
-          },
-          "UIItems": [
-            {
-              "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-              "Props": {
-                "Text": "KRDLabs PVE Maps",
-                "FontSize": 15,
-                "Padding": [
-                  5,
-                  5,
-                  5,
-                  5
-                ]
-              }
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "KRDLabs PVE Maps",
+              "FontSize": 24,
+              "Justification": "Center",
+              "Color": [
+                1,
+                0,
+                0
+              ],
+              "Padding": [
+                5,
+                5,
+                5,
+                5
+              ]
             }
-          ]
-        }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+            "Props": {
+              "Padding": [
+                2,
+                2,
+                2,
+                2
+              ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+            "Props": {
+              "Fill": 1
+            },
+            "UIItems": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "1. The Island",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+           
   
 
 
