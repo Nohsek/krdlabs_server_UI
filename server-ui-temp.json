@@ -1138,7 +1138,7 @@
                 "Props": {
                   "Title": "Mate/Hatch",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                  "FontSize": 12,
+                  "FontSize": 8,
                   "Fill": 1
                 },
                 "UIItems": [
