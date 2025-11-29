@@ -1137,7 +1137,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Mating/Hatching",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1161,7 +1160,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Taming",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1169,7 +1167,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Passive Interval = 0.5x\nTaming Speed = 7x",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1185,7 +1183,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Day Cycle",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1193,7 +1190,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Day = 1hr 10s\nNight = 25min 6s",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1209,7 +1206,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "XP",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1217,7 +1213,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Alpha Kill = 5x\nBoss Kill = 6x\nCave Kill = 3x\nExplorer Note = 2x\nTamed Kill = 2.5x\nUnclaimed Kill = 1x\nWild Kill = 2x\nXP Multiplier = 2x\nCrafting = 2.5x\nHarvest = 3x\nKill = 2x\nPassive = 2x\nSpecial = 3x\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1233,7 +1229,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Decay",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1241,7 +1236,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Structure Decay = 3x\nCreature Decay = 2x\nCrop Decay Speed = 0.5x\nFast Decay Unsnapped = Yes\nFast Decay Time = 12h\nAuto Destroy = Yes\nAuto Destroy Time = 3.5x\nAuto Destroy Creatures = No\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1257,7 +1252,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Spoil",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1265,7 +1259,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Spoil Time = 5x\nCorpse Decomposition Time = 30min\nItem Decomposition Time = 5min\nClamp Spoil Time = Yes\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1281,7 +1275,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Harvest",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1289,7 +1282,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Global Harvest Rate = 6x\nGlobal Harvest Health = 2x\nPlayer Harvest Damage = 2x\nCreature Harvest Damage = 3.2x\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1305,7 +1298,6 @@
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                 "Props": {
                   "Title": "Difficulty",
-                  "Note": "Some Tab Page Notes",
                   "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                   "Fill": 1
                 },
@@ -1313,7 +1305,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "Text": "Wild Max = 300\nWild Tek Max = 360\nPerfect Tame = 449\nPerfect Tek Tame = 539\nWild Wyvern Max = 380\nWild Crystal Wyvern Max = 450\nLoot Scale = 1000%\n",
                       "FontSize": 15,
                       "Padding": [
                         5,
