@@ -1073,7 +1073,20 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "8. Valguero - Coming Soon",
+                  "Text": "8. Valguero",
+                  "FontSize": 16,
+                  "Padding": [
+                    5,
+                    5,
+                    5,
+                    5
+                  ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "9. Lost Colony",
                   "FontSize": 16,
                   "Padding": [
                     5,
