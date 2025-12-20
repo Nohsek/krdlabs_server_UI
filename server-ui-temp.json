@@ -272,7 +272,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Having Issues?",
+                              "Text": "Link Character to Discord",
                               "FontSize": 14,
                               "Justification": "Center",
                               "Padding": [
@@ -296,13 +296,13 @@
                             },
                             "Modal": {
                               "Props": {
-                                "Title": "KRDLabs PVE Cluster Support"
+                                "Title": "Character Linking"
                               },
                               "UIItems": [
                                 {
                                   "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                   "Props": {
-                                    "Text": "If you are having any issues, please click the discord link in the previous section. There, you can submit server suggestions or put in a helpdesk ticket for support.",
+                                    "Text": "Linking your ark character is a requirement. This allows us to manage the server far easier. To link your character, exit all menus. hold R and select ASA-Bot, then Player Registration. Follow the instructions. Please reach out on discord if there are any issues.",
                                     "FontSize": 15,
                                     "Fill": 1
                                   }
