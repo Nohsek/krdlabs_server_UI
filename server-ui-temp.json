@@ -302,7 +302,7 @@
                                 {
                                   "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                   "Props": {
-                                    "Text": "Linking your ark character is a requirement. This allows us to manage the server far easier. To link your character, exit all menus. hold R and select ASA-Bot, then Player Registration. Follow the instructions. Please reach out on discord if there are any issues.",
+                                    "Text": "Linking your ark character is a requirement. This allows us to manage the server far easier. To link your character, exit all menus. hold R(PC), X(Xbox) and select ASA-Bot, then Player Registration. Follow the instructions. Please reach out on discord if there are any issues.",
                                     "FontSize": 15,
                                     "Fill": 1
                                   }
