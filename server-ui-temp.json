@@ -1214,7 +1214,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Alpha Kill = 5x\nBoss Kill = 6x\nCave Kill = 3x\nExplorer Note = 2x\nTamed Kill = 2.5x\nUnclaimed Kill = 1x\nWild Kill = 2x\nXP Multiplier = 2x\nCrafting = 2.5x\nHarvest = 3x\nKill = 2x\nPassive = 2x\nSpecial = 3x",
+                      "Text": "Alpha Kill = 3x\nBoss Kill = 3x\nCave Kill = 3x\nExplorer Note = 2x\nTamed Kill = 1.5x\nUnclaimed Kill = 1.5x\nWild Kill = 2x\nXP Multiplier = 2x\nCrafting = 2x\nHarvest = 2x\nKill = 2x\nPassive = 2x\nSpecial = 2x",
                       "FontSize": 15,
                       "Padding": [
                         5,
