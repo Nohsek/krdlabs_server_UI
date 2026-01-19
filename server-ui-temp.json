@@ -1701,7 +1701,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T3 - Gold (75pts/hr)\\Clear ALL Scorched Earth, Center and Ragnarok bosses on Alpha.",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1724,7 +1724,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "T4 - Platinum (100pts/hr)\nComing Soon!",
+                              "Text": "T4 - Platinum (100pts/hr)\nComing January 29th!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1747,7 +1747,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "T5 - Diamond (150pts/hr)\nComing Soon!",
+                              "Text": "T5 - Diamond (150pts/hr)\nComing February 12th!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
