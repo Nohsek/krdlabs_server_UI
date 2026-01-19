@@ -1632,7 +1632,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T0 - Default (5pts/hr)\nThis is achieved by joining KRDLabs PVE Cluster. When you join, you are automatically placed here.",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1655,7 +1655,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T1 - Bronze (25pts/hr)\nRegister your ark character with discord. Once done and verified, you will be placed here.",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1678,7 +1678,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T2 - Silver (50pts/hr)\nClear ALL Island Bosses on Alpha. Broodmother, Megapithecus, Dragon, and Overseer.",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1724,7 +1724,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T4 - Platinum (100pts/hr)\nComing Soon!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1747,7 +1747,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T5 - Diamond (150pts/hr)\nComing Soon!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1770,7 +1770,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T6 - Emerald (200pts/hr)\nPlanned for Future!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1793,7 +1793,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T7 - Ruby (250pts/hr)\nPlanned for Future!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1816,7 +1816,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T8 - Sapphire (300pts/hr)\nPlanned for Future!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1839,7 +1839,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T9 - Celestial (400pts/hr)\nPlanned for Future!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
@@ -1862,7 +1862,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "Any content can be placed inside!",
+                              "Text": "T10 - Ascendant (500pts/hr)\nPlanned for Future!",
                               "FontSize": 15,
                               "Padding": [
                                 5,
