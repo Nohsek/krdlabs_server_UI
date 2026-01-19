@@ -1553,7 +1553,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "Welcome to the Points ant Tier System for KRDLabs Cluster. Here, you will find everything regarding the system. This was added to help surviving the ark easier, while rewarding users for playing and completing content.",
+                      "Text": "Welcome to the Points and Tier System for KRDLabs Cluster. Here, you will find everything regarding the system. This was added to help surviving the ark easier, while rewarding users for playing and completing content.",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1576,7 +1576,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "What are Points and how do you get them?/nPoints are a reward system used for the ArkShop mod. Points are awarded every hour you play the game. Currently, points can range from 5-500 points an hour, based of of your tier. You can spend your points in the ArkShop for resources, or rare items/dinos.",
+                      "Text": "What are Points and how do you get them?\nPoints are a reward system used for the ArkShop mod. Points are awarded every hour you play the game. Currently, points can range from 5-500 points an hour, based of of your tier. You can spend your points in the ArkShop for resources, or rare items/dinos.",
                       "FontSize": 13,
                       "Padding": [
                         5,
