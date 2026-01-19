@@ -1509,6 +1509,13 @@
             ]
           }
         ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "$$SERVER$:$Tier System",
+          "Fill": 1
+        }
       }
     ]
   }
