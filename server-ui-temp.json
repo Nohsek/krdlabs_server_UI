@@ -1599,7 +1599,7 @@
                   {
                     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                     "Props": {
-                      "Text": "What are the current Tiers and how do you achieve?\nSee below for the tiers and how to achieve them. Besides the default tier, each tier will need to be verified in order to be placed their. Once tier requirements are completed, you will need to open a ticket.",
+                      "Text": "What are the current Tiers and how do you achieve?\nSee below for the tiers and how to achieve them. Besides the default tier, each tier will need to be verified in order to be placed their. Once tier requirements are completed, you will need to open a ticket in Discord.",
                       "FontSize": 15,
                       "Padding": [
                         5,
@@ -1694,6 +1694,167 @@
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
                         "Props": {
                           "Title": "Tier 3",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 4",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 5",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 6",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 7",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 8",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 9",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tier 10",
                           "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
                           "Fill": 1
                         },
