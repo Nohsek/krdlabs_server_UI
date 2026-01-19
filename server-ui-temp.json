@@ -1515,11 +1515,217 @@
         "Props": {
           "Title": "$$SERVER$:$Tier System",
           "Fill": 1
-        }
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "KRDLabs PVE Cluster Tier System",
+              "FontSize": 24,
+              "Justification": "Center",
+              "Color": [
+                1,
+                0,
+                0
+              ],
+              "Padding": [
+                5,
+                5,
+                5,
+                5
+              ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+            "Props": {
+              "UUID": "SecondTab"
+            },
+            "Tabs": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "ASA Points And Tier System",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Welcome to the Points ant Tier System for KRDLabs Cluster. Here, you will find everything regarding the system. This was added to help surviving the ark easier, while rewarding users for playing and completing content.",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Point System",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "What are Points and how do you get them?/nPoints are a reward system used for the ArkShop mod. Points are awarded every hour you play the game. Currently, points can range from 5-500 points an hour, based of of your tier. You can spend your points in the ArkShop for resources, or rare items/dinos.",
+                      "FontSize": 13,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                "Props": {
+                  "Title": "Dino Stats/Lvl",
+                  "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                  "Fill": 1
+                },
+                "UIItems": [
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                    "Props": {
+                      "Text": "Any content can be placed inside (even nested tabs)!",
+                      "FontSize": 15,
+                      "Padding": [
+                        5,
+                        5,
+                        5,
+                        5
+                      ]
+                    }
+                  },
+                  {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+                    "Props": {
+                      "UUID": "ThirdTab",
+                      "Padding": [
+                        10,
+                        10,
+                        10,
+                        10
+                      ]
+                    },
+                    "Tabs": [
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Wild",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Tamed",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Taming Reward",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+                        "Props": {
+                          "Title": "Max Effectiveness Reward",
+                          "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
+                          "Fill": 1
+                        },
+                        "UIItems": [
+                          {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                            "Props": {
+                              "Text": "Any content can be placed inside!",
+                              "FontSize": 15,
+                              "Padding": [
+                                5,
+                                5,
+                                5,
+                                5
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
 }
+      
+
    
 
 
