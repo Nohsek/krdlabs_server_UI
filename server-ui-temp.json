@@ -1701,7 +1701,7 @@
                           {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                             "Props": {
-                              "Text": "T3 - Gold (75pts/hr)\\Clear ALL Scorched Earth, Center and Ragnarok bosses on Alpha.",
+                              "Text": "T3 - Gold (75pts/hr)\nClear ALL Scorched Earth, Center and Ragnarok bosses on Alpha.",
                               "FontSize": 15,
                               "Padding": [
                                 5,
